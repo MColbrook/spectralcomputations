@@ -1,12 +1,28 @@
-# Infinite-Dimensional Spectral Computations
+# Infinite-Dimensional Spectral Computations  
 ### Foundations, Algorithms, and Modern Applications
 
-This website provides supplementary material for the book.
+Welcome. This site hosts supplementary material for the book *Infinite-Dimensional Spectral Computations*, including code, solutions, and ongoing updates.
 
-## Links
-- [Code](https://github.com/MColbrook/spectralcomputations)
-- [Solutions to exercises]
-- [Errata](errata.html)
+---
 
-## About
-Additional material, examples, and updates will be posted here.
+## Resources
+
+- 📦 [Code repository](https://github.com/MColbrook/spectralcomputations)  
+- 🧮 Solutions to exercises *(coming soon)*  
+- 📝 [Errata](errata.html)
+
+---
+
+## About this site
+
+This page will be updated with additional material, worked examples, and corrections as they become available.
+
+For the latest developments, please refer to the code repository above.
+
+---
+
+## Citation
+
+If you use the material provided here, please cite the book appropriately. A BibTeX entry will be added shortly.
+
+---
