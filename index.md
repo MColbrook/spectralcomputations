@@ -14,7 +14,11 @@ Welcome. This site hosts supplementary material for the book *Infinite-Dimension
 ## Resources
 
 - 📦 [Code repository](https://github.com/MColbrook/spectralcomputations)  
-- 🧮 Solutions to exercises *(coming soon)*  
+- 🧮 [Solutions to exercises]({{ '/assets/pdfs/solutions.pdf' | relative_url }})
+
+<p class="attribution">
+  The solutions were provided by Matthew Colbrook, Gustav Conradie, George Coote, and April Herwig.
+</p>  
 - 📝 [Errata](errata.html) *(please email me about these)*
 
 ---
