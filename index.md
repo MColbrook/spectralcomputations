@@ -21,13 +21,6 @@ Welcome. This site hosts supplementary material for the book *Infinite-Dimension
 </p>  
 - 📝 [Errata](errata.html) *(please email me if you spot any)*
 
----
-
-## About this site
-
-This page will be updated with additional material, worked examples, and corrections as they become available.
-
-For the latest developments, please refer to the code repository above.
 
 ---
 
