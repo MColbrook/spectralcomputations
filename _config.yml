@@ -1,4 +1,13 @@
-title: "Infinite-Dimensional Spectral Computations"
-description: ""
-theme: minima
-header_pages: []
+title: Spectral Computations
+description: Numerical methods and spectral analysis
+theme: null
+
+markdown: kramdown
+
+# Ensure Jekyll uses custom layouts
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
