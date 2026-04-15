@@ -1,0 +1,43 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #1f2328;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.65;
+}
+
+.page {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 3rem 1.25rem 4rem;
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
+  margin-top: 2rem;
+}
+
+p, ul {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  padding-left: 1.25rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #d8dee4;
+  margin: 2rem 0;
+}
