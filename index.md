@@ -1,4 +1,7 @@
-# Infinite-Dimensional Spectral Computations  
+---
+title: Infinite-Dimensional Spectral Computations
+---
+
 ### Foundations, Algorithms, and Modern Applications
 
 Welcome. This site hosts supplementary material for the book *Infinite-Dimensional Spectral Computations*, including code, solutions, and ongoing updates.
