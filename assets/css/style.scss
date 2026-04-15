@@ -1,4 +1,59 @@
----
----
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+  background: #ffffff;
+  color: #222;
+}
 
-@import "{{ site.theme }}";
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Header */
+.site-header {
+  background: #111;
+  color: #fff;
+}
+
+.site-header .site-title {
+  margin: 0;
+}
+
+.site-header nav a {
+  color: #ddd;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.site-header nav a:hover {
+  color: #fff;
+}
+
+/* Footer */
+.site-footer {
+  background: #f4f4f4;
+  color: #555;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 40px;
+  font-size: 0.9em;
+}
+
+/* Posts list */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.date {
+  color: #888;
+  margin-left: 10px;
+  font-size: 0.9em;
+}
