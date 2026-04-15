@@ -1,0 +1,7 @@
+title: Infinite-Dimensional Spectral Computations
+description: Supplementary material for the book Infinite-Dimensional Spectral Computations.
+
+url: "https://USERNAME.github.io"
+baseurl: ""   # use "" for USERNAME.github.io, or "/REPOSITORY-NAME" for a project site
+
+markdown: kramdown
