@@ -17,7 +17,7 @@ Welcome. This site hosts supplementary material for the book *Infinite-Dimension
 - 🧮 [Solutions to exercises]({{ '/assets/pdfs/solutions.pdf' | relative_url }})
 
 <p class="attribution">
-  The solutions were provided by Matthew Colbrook, Gustav Conradie, George Coote, and April Herwig.
+  Solutions by Matthew Colbrook, Gustav Conradie, George Coote, and April Herwig.
 </p>  
 - 📝 [Errata](errata.html) *(please email me about these)*
 
