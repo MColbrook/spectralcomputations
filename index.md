@@ -4,7 +4,7 @@ title: Home
 ---
 
 <h2 class="main-title">
-Infinite-Dimensional Spectral Computations: Foundations, Algorithms, and Modern Applications
+Infinite-Dimensional Spectral Computations:<br><em>Foundations, Algorithms, and Modern Applications</em>
 </h2>
 
 Welcome. This site hosts supplementary material for the book *Infinite-Dimensional Spectral Computations*, including code, solutions, and ongoing updates.
