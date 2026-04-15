@@ -19,7 +19,7 @@ Welcome. This site hosts supplementary material for the book *Infinite-Dimension
 <p class="attribution">
   Solutions by Matthew Colbrook, Gustav Conradie, George Coote, and April Herwig.
 </p>  
-- 📝 [Errata](errata.html) *(please email me about these)*
+- 📝 [Errata](errata.html) *(please email me if you spot any)*
 
 ---
 
