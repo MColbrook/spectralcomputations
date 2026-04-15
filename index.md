@@ -15,7 +15,7 @@ Welcome. This site hosts supplementary material for the book *Infinite-Dimension
 
 - 📦 [Code repository](https://github.com/MColbrook/spectralcomputations)  
 - 🧮 Solutions to exercises *(coming soon)*  
-- 📝 [Errata](errata.html)
+- 📝 [Errata](errata.html) *(please email me about these)*
 
 ---
 
