@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
-## Foundations, Algorithms, and Modern Applications
+# Foundations, Algorithms, and Modern Applications
 
 Welcome. This site hosts supplementary material for the book *Infinite-Dimensional Spectral Computations*, including code, solutions, and ongoing updates.
 
