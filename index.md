@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 ## Foundations, Algorithms, and Modern Applications
