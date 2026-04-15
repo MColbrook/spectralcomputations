@@ -50,6 +50,8 @@ hr {
 
 .attribution {
   font-size: 0.9rem;
-  color: #6a737d;   /* subtle grey */
+  color: #6a737d;
   margin-top: 0.5rem;
+  border-left: 3px solid #d0d7de;
+  padding-left: 0.6rem;
 }
