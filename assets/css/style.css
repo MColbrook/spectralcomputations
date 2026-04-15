@@ -41,3 +41,9 @@ hr {
   border-top: 1px solid #d8dee4;
   margin: 2rem 0;
 }
+
+.main-title {
+  color: #1f4acc;
+  font-weight: 600;
+  margin-top: 0;
+}
