@@ -2,7 +2,7 @@ clear
 close all
 addpath('data')
 
-load('butterfly_data.mat') % code for constructing the tilings and operators can be found in chapter 3
+load('butterfly_data.mat') % code for constructing the tilings and operators can be found in chapter 3: see approx_state_penrose.m
 C3 = setdiff(round(imag(C1*400))*1i/400+round(real(C1*100))/100,round(imag(C2*400))*1i/400+round(real(C2*100))/100);
 C1 = round(C2*400)/400;
 C2 = round(C2*400)/400;
