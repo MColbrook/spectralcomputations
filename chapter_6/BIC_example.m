@@ -7,7 +7,7 @@ currentFile = mfilename('fullpath');
 targetPath = fullfile(currentDir, '..', 'chapter_4', 'SpecSolve');
 addpath(genpath(targetPath));
 
-%%%%%%%%%%%%%%%% CODE FOR Example in Section 5.5.2 %%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% CODE FOR Example in Section 6.4.2 %%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Set parameters and build matrix
