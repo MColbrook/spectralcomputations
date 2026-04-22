@@ -2,7 +2,13 @@ clear
 close all
 addpath('data')
 
-%% Example of how to produce data (increase n and resolution of phi as wanted, to reduce grid size use points close to finite section eigenvalues)
+% Add folder from chapter 3 (constructs the Hamiltonian)
+currentFile = mfilename('fullpath');
+[currentDir, ~, ~] = fileparts(currentFile);
+targetPath = fullfile(currentDir, '..', 'chapter_3', 'routines');
+addpath(genpath(targetPath));
+
+%% Example of how to produce data (increase n and resolution of phi as wanted)
 n = 200;
 X = -4.3:0.02:4.3;
 X2 = 0:0.02:4.3;
@@ -34,14 +40,14 @@ end
 
 % plot the results
 
-f=figure
+f = figure;
 plot(real(C1),imag(C1),'.','markersize',4,'color',[1,1,1]*0.7)
 ylim([0,1])
 xlim([-4.3,4.3])
 ax = gca; ax.FontSize = 14;
 f.Position=[360.0000  345.6667  560.0000  272.3333];
 
-f=figure
+f = figure;
 plot(real(C2),imag(C2),'.','markersize',4,'color',[1,1,1]*0.7)
 ylim([0,1])
 xlim([-4.3,4.3])
@@ -57,7 +63,7 @@ C2 = round(C2*400)/400;
 C2 = setdiff(C2,C3);
 
 
-f=figure
+f = figure;
 plot(real(C3),imag(C3),'.k','markersize',2)
 hold on
 plot(real(C1),imag(C1),'.','markersize',2,'color',[1,1,1]*0.7)
@@ -67,8 +73,7 @@ ax = gca; ax.FontSize = 14;
 f.Position=[360.0000  345.6667  560.0000  272.3333];
 exportgraphics(gcf,'CHAP1_butterfly1.pdf','BackgroundColor','none','Resolution',500,'Colorspace','gray')
 
-f2=figure
-
+f2 = figure;
 plot(real(C2),imag(C2),'.k','markersize',1)
 ylim([0,1])
 xlim([-4.3,4.3])
