@@ -48,12 +48,6 @@ After downloading the data files:
 
 The folder `data_online/` contains data files that are small enough to be included directly in this repository.
 
-## Notes
-
-- The code is intended to illustrate concepts from the book rather than serve as a polished software package.
-- Some scripts are designed to be run interactively.
-- Paths may need to be adjusted depending on your local setup.
-
 ## License
 
 This repository is released under the MIT License. See `LICENSE` for details.
